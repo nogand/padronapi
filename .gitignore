@@ -130,3 +130,7 @@ dmypy.json
 
 # Joe backup files
 *~
+
+# Production .ini files
+produccion.ini
+production.ini
